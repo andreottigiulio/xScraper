@@ -122,3 +122,9 @@ await tweetSaver.saveAll({ mode: 'pager', max: 20, download: false })
 ```
 
 Restituisce i file generati senza scaricarli, utile per verificare le modifiche.
+
+## Licenza
+
+[PolyForm Noncommercial 1.0.0](LICENSE) © 2026 andreottigiulio
+
+Puoi usare, modificare e condividere il codice per scopi **personali e non commerciali** (archivio privato, studio, ricerca, progetti amatoriali). L'**uso commerciale non è consentito** senza un accordo separato con l'autore: se ti serve, apri una issue sul repository.
