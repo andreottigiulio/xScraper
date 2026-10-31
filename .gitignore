@@ -1,0 +1,4 @@
+# GitHub CLI portatile, usata solo per pubblicare: non fa parte del progetto
+.tools/
+
+*.log
